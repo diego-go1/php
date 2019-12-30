@@ -1,5 +1,7 @@
 <?php
 
-    echo "olá";
+    echo "olá bhy";
+
+    echo"olá frt";
 
 ?>
