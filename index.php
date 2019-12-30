@@ -1,7 +1,8 @@
 <?php
 
-    echo "olá bhy";
+<<<<<<< HEAD
+    echo "olá people";
 
-    echo"olá frt";
+    echo"olá person";
 
-?>
+ ?>
